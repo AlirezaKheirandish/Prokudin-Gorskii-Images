@@ -10,7 +10,7 @@ https://tile.loc.gov/storage-services/master/pnp/prok/01800/01833a.tif
 
 https://tile.loc.gov/storage-services/master/pnp/prok/00400/00458a.tif
 
-You can see the result for this project in the following figures:
+You can see the results of this project in the following figures:
 
 ![res03-Amir](res03-Amir.jpg)
 
